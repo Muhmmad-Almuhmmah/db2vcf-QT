@@ -1,8 +1,8 @@
-# db2vcf-QT
+# db2vcf-QT[Console Application]
 convert database (contacts.db) to Variant Call Format (VCF) [db2vcf.exe] C++ Qt
 <hr>
 <h3>
-  Run Exe file without 2 arguments
+  Run Exe
  </h3>
 <img src="https://github.com/Muhmmad-Almuhmmah/db2vcf-QT/blob/main/1.png"></img>
 <hr>
